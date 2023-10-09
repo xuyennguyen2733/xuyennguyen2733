@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xuyennguyen2733&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=20&layout=compact)](https://github.com/xuyennguyen2733/github-readme-stats)
 
 <!--
 **xuyennguyen2733/xuyennguyen2733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
